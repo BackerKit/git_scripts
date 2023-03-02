@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.5.0 - released 2023-03-02
+Replace deprecated `File.exists?` method with `File.exist?`
+
 ## 1.4.0 - released 2015-01-15
 
 ### `git pair-commit` explicitly sets the author name
